@@ -69,7 +69,7 @@ All of the lecture material is written in R Markdown. For the slide decks (lectu
 
 ### Do you plan to turn these lecture notes into a book?
 
-Yes! Together with my friend and colleague, [Ed Rubin](https://edrub.in), we're slowly porting our combined lecture material to a book under the tentative title: "[*Data science for economists and other animals*](https://grantmcdermott.com/ds4e)".
+I made changes.
 
 ## License
 
